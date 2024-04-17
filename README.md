@@ -1,4 +1,4 @@
-# 👋 Hello World! I'm Jaimeen Makavana
+# 👋 Hello ! I'm Jaimeen Makavana
 
 ## 🚀 About Me
 
