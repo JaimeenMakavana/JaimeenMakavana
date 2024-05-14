@@ -7,7 +7,7 @@ I'm a Javascript developer with a passion for React/Next.js. My journey in the t
 ## 💼 Skills & Expertise
 
 - **Frontend Development:** HTML, CSS, JavaScript, React, Next.js
-- **UI/UX Design:** Figma, Adobe XD
+- **UI/UX Design:** Figma,
 - **Other:** Git, GraphQL, RESTful APIs
 
 ## 🌱 What I'm Currently Learning
