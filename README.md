@@ -16,28 +16,28 @@ Express.js
 React Native
 - **State Management :** 
 Redux, Zustand, Context API, Recoil
-**Styling & Animations :**
+-**Styling & Animations :**
 Tailwind CSS, Bootstrap, GSAP, Framer Motion, Shadcn UI 
-**Routing :**
+-**Routing :**
 React Router, Next.js for SSR
-**Cloud Services :**
+-**Cloud Services :**
 Google Cloud Platform (GCP) (Cert. TRDX-SRT-GCP 2023-0245) UI
-**Web Deployment :** 
+-**Web Deployment :** 
 Vercel, Netlify 
-**Databases :**
+-**Databases :**
 MongoDB, postgresSQL , Prisma , Mongoose 
 
 
-**Package manager & Version Control :**
+-**Package manager & Version Control :**
 npm , yarn and pnpm | Git, GitHub 
-**Libraries & Forms :** 
+-**Libraries & Forms :** 
 React Query, NextAuth.js, React Hook Form, 
 Formik, Storybook 
-**Protocols :** 
+-**Protocols :** 
 HTTP, HTTPS, WebSockets
 
 
-**Project Management Tools :** 
+-**Project Management Tools :** 
 trelo, googledoc, notion 
 
 
