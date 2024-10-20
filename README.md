@@ -6,9 +6,41 @@ I'm a Javascript developer with a passion for React/Next.js. My journey in the t
 
 ## 💼 Skills & Expertise
 
-- **Frontend Development:** HTML, CSS, JavaScript, React, Next.js
-- **UI/UX Design:** Figma,
-- **Other:** Git, GraphQL, RESTful APIs
+- **Languages:** :
+JavaScript (ES6+), TypeScript 
+- **Frontend Frameworks & Libraries :** 
+React, Next.js
+- **Backend Frameworks :**
+Express.js
+-**Mobile Development :**
+React Native
+- **State Management :** 
+Redux, Zustand, Context API, Recoil
+**Styling & Animations :**
+Tailwind CSS, Bootstrap, GSAP, Framer Motion, Shadcn UI 
+**Routing :**
+React Router, Next.js for SSR
+**Cloud Services :**
+Google Cloud Platform (GCP) (Cert. TRDX-SRT-GCP 2023-0245) UI
+**Web Deployment :** 
+Vercel, Netlify 
+**Databases :**
+MongoDB, postgresSQL , Prisma , Mongoose 
+
+
+**Package manager & Version Control :**
+npm , yarn and pnpm | Git, GitHub 
+**Libraries & Forms :** 
+React Query, NextAuth.js, React Hook Form, 
+Formik, Storybook 
+**Protocols :** 
+HTTP, HTTPS, WebSockets
+
+
+**Project Management Tools :** 
+trelo, googledoc, notion 
+
+
 
 ## 🌱 What I'm Currently Learning
 
