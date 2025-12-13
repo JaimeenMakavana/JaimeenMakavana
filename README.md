@@ -1,67 +1,75 @@
-# 👋 Hello ! I'm Jaimeen Makavana
+# 👋 Hi, I'm Jaimeen Makavana
 
-## 🚀 About Me
+Frontend Engineer (React/Next.js) with 4 years of experience building scalable, high-quality web applications.  
+I focus on clean architecture, reusable components, smooth user experiences, and reliable data flows.  
+Alongside my frontend work, I’m expanding into backend development and practical AI/ML workflows, including agents, RAG pipelines, and recommendation systems.  
+:contentReference[oaicite:1]{index=1}
 
-I'm a Javascript developer with a passion for React/Next.js. My journey in the tech world has been a thrilling adventure, marked by a relentless pursuit of innovation and excellence.
+---
 
-## 💼 Skills & Expertise
+## 🔧 Tech Skills
 
-- **Languages:** :
-JavaScript (ES6+), TypeScript 
-- **Frontend Frameworks & Libraries :** 
-React, Next.js
-- **Backend Frameworks :**
-Express.js
--**Mobile Development :**
-React Native
-- **State Management :** 
-Redux, Zustand, Context API, Recoil
--**Styling & Animations :**
-Tailwind CSS, Bootstrap, GSAP, Framer Motion, Shadcn UI 
--**Routing :**
-React Router, Next.js for SSR
--**Cloud Services :**
-Google Cloud Platform (GCP) (Cert. TRDX-SRT-GCP 2023-0245) UI
--**Web Deployment :** 
-Vercel, Netlify 
--**Databases :**
-MongoDB, postgresSQL , Prisma , Mongoose 
+### **Frontend**
+- React.js • Next.js  
+- TypeScript • JavaScript  
+- Zustand • Redux  
+- Tailwind CSS • Material UI  
+- Component architecture • Performance optimization  
+
+### **Backend**
+- Node.js • Express.js  
+- REST APIs • Query optimization  
+- PostgreSQL • MongoDB (beginner)  
+
+### **AI / ML (Growing)**
+- Machine learning algorithms
+- LLM-based workflows  
+- RAG system fundamentals  
+- Recommendation systems  
+- Agents and automated content workflows  
+
+### **Tools**
+- Git • GitHub  
+- Vercel • Webpack  
+- GitHub Actions (CI/CD)  
+- Postman • API debugging  
+
+---
+
+## 💼 Experience
+
+### **Frontend Developer — KEY.AI**
+- Built and optimized the core **Chat Module** with smooth rendering and real-time updates.  
+- Developed **AI-driven community creation workflows** and automated topic generation.  
+- Implemented a complete **Notification System**, including preferences and delivery logic.  
+- Worked closely with backend/AI teams to improve data flows and scalability.  
+:contentReference[oaicite:2]{index=2}
+
+### **Full Stack Developer — KOFFEEKODES**
+- Led foundational architecture for **Chapter01**, an accounting platform built from scratch.  
+- Designed system foundations for **TCPL**, a financial transaction application.  
+- Built REST APIs, optimized queries, implemented caching and pagination patterns.  
+- Contributed to long-term architecture decisions and product foundations.  
+:contentReference[oaicite:3]{index=3}
+
+### **React Developer — WebApster**
+- Built multiple client-facing dashboards and applications using React.  
+- Created reusable UI systems and improved performance across projects.  
+- Integrated REST & GraphQL APIs with efficient data-fetch patterns.  
+- Collaborated with senior engineers to refine state management and architecture.  
+:contentReference[oaicite:4]{index=4}
+
+---
+
+## 📘 Current Focus
+- Strengthening backend fundamentals (APIs, database design, auth flows)  
+- Building AI-powered features with practical agent & RAG workflows  
+- Delivering clean, maintainable full-stack solutions  
+
+---
+
+## 🔗 Connect With Me
+- **Portfolio:** https://jaimeen-makavana-portfolio.vercel.app  
+- **LinkedIn:** https://linkedin.com/in/jaimeen-makavana  
 
 
--**Package manager & Version Control :**
-npm , yarn and pnpm | Git, GitHub 
--**Libraries & Forms :** 
-React Query, NextAuth.js, React Hook Form, 
-Formik, Storybook 
--**Protocols :** 
-HTTP, HTTPS, WebSockets
-
-
--**Project Management Tools :** 
-trelo, googledoc, notion 
-
-
-
-## 🌱 What I'm Currently Learning
-
-I'm always eager to expand my skill set and stay ahead of the curve. Currently, I'm diving deeper into React-native, Jest, Docker and exploring its potential applications .
-
-## 👯‍♀️ Let's Collaborate
-
-I love collaborating with like-minded individuals and contributing to open-source projects. Whether it's brainstorming new ideas or tackling challenging problems, I'm always up for a stimulating collaboration.
-
-## 📫 Get in Touch
-
-- LinkedIn: (https://www.linkedin.com/in/jaimeen-makavana-37720426b/)
-
-## 📚 My Latest Projects
-
-Here are some of my recent projects that showcase my skills and expertise:
-
-1. Chapter01(Accounting) 
-2. AirConnect(Booking Related Webapp) 
-3. Koffeekodes(Company's own website) 
-
-## 🙏 Thanks for Visiting!
-
-Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's make the world a bit more innovative, one line of code at a time.
