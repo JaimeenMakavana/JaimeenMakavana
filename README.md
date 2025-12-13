@@ -3,7 +3,6 @@
 Frontend Engineer (React/Next.js) with 4 years of experience building scalable, high-quality web applications.  
 I focus on clean architecture, reusable components, smooth user experiences, and reliable data flows.  
 Alongside my frontend work, I’m expanding into backend development and practical AI/ML workflows, including agents, RAG pipelines, and recommendation systems.  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -43,21 +42,18 @@ Alongside my frontend work, I’m expanding into backend development and practic
 - Developed **AI-driven community creation workflows** and automated topic generation.  
 - Implemented a complete **Notification System**, including preferences and delivery logic.  
 - Worked closely with backend/AI teams to improve data flows and scalability.  
-:contentReference[oaicite:2]{index=2}
 
 ### **Full Stack Developer — KOFFEEKODES**
 - Led foundational architecture for **Chapter01**, an accounting platform built from scratch.  
 - Designed system foundations for **TCPL**, a financial transaction application.  
 - Built REST APIs, optimized queries, implemented caching and pagination patterns.  
 - Contributed to long-term architecture decisions and product foundations.  
-:contentReference[oaicite:3]{index=3}
 
 ### **React Developer — WebApster**
 - Built multiple client-facing dashboards and applications using React.  
 - Created reusable UI systems and improved performance across projects.  
 - Integrated REST & GraphQL APIs with efficient data-fetch patterns.  
 - Collaborated with senior engineers to refine state management and architecture.  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
