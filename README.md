@@ -8,9 +8,13 @@ Alongside my frontend work, I’m expanding into backend development and practic
 
 ## 🔧 Tech Skills
 
+### **Programming languages**
+- Javascript 
+- Python
+
 ### **Frontend**
 - React.js • Next.js  
-- TypeScript • JavaScript  
+- TypeScript   
 - Zustand • Redux  
 - Tailwind CSS • Material UI  
 - Component architecture • Performance optimization  
