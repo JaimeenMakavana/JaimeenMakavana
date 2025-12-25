@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaimeen Makavana
 
-Frontend Engineer (React/Next.js) with 4 years of experience building scalable, high-quality web applications.  
+Frontend Engineer (React/Next.js) building scalable, high-quality web applications.  
 I focus on clean architecture, reusable components, smooth user experiences, and reliable data flows.  
 Alongside my frontend work, I’m expanding into backend development and practical AI/ML workflows, including agents, RAG pipelines, and recommendation systems.  
 
